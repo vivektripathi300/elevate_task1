@@ -10,15 +10,15 @@ Confidentiality means ensuring that sensitive information is accessed only by au
 
 How it is achieved:
 
-Authentication (username & password, biometrics)
+*Authentication (username & password, biometrics)
 
-Authorization (role-based access)
+*Authorization (role-based access)
 
-Encryption
+*Encryption
 
-Multi-factor authentication (MFA)
+*Multi-factor authentication (MFA)
 
-Real-world examples:
+*Real-world examples:
 
 Banking
 
@@ -44,13 +44,13 @@ Integrity ensures that data remains accurate, complete, and unaltered unless mod
 
 How it is achieved:
 
-Hashing (SHA-256, MD5)
+*Hashing (SHA-256, MD5)
 
-Digital signatures
+*Digital signatures
 
-Checksums
+*Checksums
 
-Access control & logging
+*Access control & logging
 
 Real-world examples:
 
@@ -78,11 +78,11 @@ Availability ensures that systems and data are accessible when needed by authori
 
 How it is achieved:
 
-Redundant servers
+*Redundant servers
 
-Load balancing
+*Load balancing
 
-Regular backups
+*Regular backups
 
 Protection against DDoS attacks
 
