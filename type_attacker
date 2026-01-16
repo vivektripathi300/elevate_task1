@@ -1,0 +1,137 @@
+1. Script Kiddies 🧑‍💻
+
+Who they are:
+Inexperienced attackers who use pre-written tools and scripts without understanding how they work.
+
+Motivation:
+
+Fun or curiosity
+
+Gaining attention
+
+Proving skills (often unsuccessfully)
+
+Skills Level: Low
+
+Typical Attacks:
+
+Website defacement
+
+Basic DDoS attacks
+
+Running automated scanners (Nmap, Metasploit)
+
+Real-world Example:
+
+Defacing small websites using tools downloaded from GitHub
+
+📌 Threat level: Low, but still dangerous due to volume.
+
+2. Insider Threats 🧑‍💼
+
+Who they are:
+Employees, contractors, or partners who already have authorized access.
+
+Motivation:
+
+Revenge
+
+Financial gain
+
+Negligence (unintentional insiders)
+
+Skills Level: Medium to High (depends on role)
+
+Types of Insider Threats:
+
+Malicious insiders – intentionally steal or damage data
+
+Negligent insiders – click phishing links or misuse access
+
+Typical Attacks:
+
+Data theft
+
+Privilege abuse
+
+Leaking credentials
+
+Real-world Example:
+
+An employee copying customer data before resigning
+
+📌 Threat level: Very High (hard to detect).
+
+3. Hacktivists ✊
+
+Who they are:
+Attackers driven by political, social, or ideological motives.
+
+Motivation:
+
+Protest
+
+Public awareness
+
+Political messages
+
+Skills Level: Medium
+
+Typical Attacks:
+
+Website defacement
+
+DDoS attacks
+
+Data leaks (doxxing)
+
+Real-world Groups:
+
+Anonymous
+
+LulzSec (historically)
+
+Real-world Example:
+
+DDoS attack on a government website during protests
+
+📌 Threat level: Medium (high visibility, reputational damage).
+
+4. Nation-State Actors 🌍
+
+Who they are:
+Highly skilled attackers sponsored by governments.
+
+Motivation:
+
+Espionage
+
+Cyber warfare
+
+Intellectual property theft
+
+Skills Level: Very High (APT groups)
+
+Typical Attacks:
+
+Zero-day exploits
+
+Advanced Persistent Threats (APTs)
+
+Supply chain attacks
+
+Real-world Examples:
+
+Stuxnet attack on Iranian nuclear facilities
+
+SolarWinds supply-chain attack
+
+Known APT Groups:
+
+APT28 (Fancy Bear)
+
+APT29
+
+Lazarus Group
+
+📌 Threat level: Extremely High (long-term, stealthy attacks).
